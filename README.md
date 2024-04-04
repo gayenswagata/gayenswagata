@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hi, I am Swagata Gayen
+
+ - 🌱 I’m currently learning  DSA,Springboot
 
 <!--
 **gayenswagata/gayenswagata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
