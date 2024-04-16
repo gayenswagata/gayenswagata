@@ -1,6 +1,6 @@
 👋 Hi, I am Swagata Gayen
 
- - 🌱 I’m currently learning  DSA,Springboot
+ - 🌱 I’m currently learning  DSA, Springboot, Redis using C++
 
 <!--
 **gayenswagata/gayenswagata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
