@@ -1,7 +1,9 @@
 👋 Hi, I am Swagata Gayen
 
- - 🌱 I’m currently learning  DSA, Springboot
- - 🌱 I’m currently working on a project to create Redis from scratch using C++
+ - 🌱 I’m currently learning  DSA, Springboot, Python
+ - 🌱 I’ve worked on a project to create Redis from scratch using C++
+ - 🌱 I’ve created a project to create a chat app using spring boot, mongodb as database
+ - 🌱 I’m learning python, ML
 
 <!--
 **gayenswagata/gayenswagata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
