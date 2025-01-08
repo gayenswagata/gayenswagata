@@ -1,6 +1,6 @@
 👋 Hi, I am Swagata Gayen
 
- - 🌱 I’m currently learning  DSA, Springboot, Python, ML
+ - 🌱 I’m currently learning  DSA, Python
  - 🔭 I’ve worked on a project to create Redis from scratch using C++
  - 🔭 I’ve created a project to create a chat app using spring boot, mongodb as database
 
